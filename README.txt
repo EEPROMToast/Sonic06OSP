@@ -9,7 +9,7 @@ Hello fellow Sonic Fans as well as bored developers!
     I would also like to credit ChaosX for his hard work in making Project 06 which this project is based on. It was due to his tireless work that the game is this good! That being said, I would probably be speaking on behalf of most
     Sonic fans in saying that I am too impatient to wait for the finished result, so now I am taking action to SPEED IT UP a little (pun entirely intended).
 
-    As of now, this is just a mess of compiled assembly byte code and all the files from the original XBOX 360 iso. I am hoping some Sonic fans out there more qualified than me will be able to help me put this together by making
+    As of now, this is just a mess of compiled assembly byte code and all the files from the original XBOX 360 iso which due to complications with Github will be in Google Drive but a link will be provided here. I am hoping some Sonic fans out there more qualified than me will be able to help me put this together by making
     contributions and forks of this project. Here is the ground work, so hack away like Dr. Eggman hacking into GUN to find details on Project Shadow. The good Doctor will reward you with your own pet badnik.
 
     Happy hacking everyone! Remember, you're not allowed to use a Chaos Emerald to teleport to a dimension where this already exists and clone the project to a flash drive.
@@ -33,3 +33,7 @@ Hello fellow Sonic Fans as well as bored developers!
         YouTube Video Originating This Project:
 
         YouTube Link - 
+        
+        Promised Google Drive Link:
+        
+        Google Drive -
